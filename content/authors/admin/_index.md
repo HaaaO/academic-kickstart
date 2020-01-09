@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Computer Science
+  - course: BSc,MSc in Computer Science
     institution: University of Southern California(USC)
     year: 2020
   - course: BSc in Electronic and Electrical Engineering(transferred)
