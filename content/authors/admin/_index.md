@@ -48,9 +48,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GA6kDcMAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,3 +67,5 @@ user_groups:
 I am extremely interested in working on human-centered computational problems for people with special needs. Currently, I am working on designing computational models that could recognize the affective state of learning for children with Autism Spectrum Disorder (ASD) so that we could respond with personalized feedback to proceed learning at an optimal pace for each child.
 
 <sup>*My [CV](www.google.com) was last updated on Jan 9, 2020*</sup>
+
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
