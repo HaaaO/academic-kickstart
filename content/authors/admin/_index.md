@@ -67,4 +67,4 @@ user_groups:
 I am extremely interested in working on human-centered computational problems for people with special needs. Currently, I am working on designing computational models that could recognize the affective state of learning for children with Autism Spectrum Disorder (ASD) so that we could respond with personalized feedback to proceed learning at an optimal pace for each child.
 
 
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}} <sup>*My [CV](www.google.com) was last updated on Jan 9, 2020*</sup>
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}} <sup>*last updated on Jan 9, 2020*</sup>
