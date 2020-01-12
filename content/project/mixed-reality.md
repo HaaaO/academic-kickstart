@@ -9,7 +9,7 @@ Kinesthetic Curiosity: Embodied Learning Through a Mixed Reality Socially Intera
 date = 2019-03-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "We are currently looking into combining the idea of "Embodied Learning" (using your whole body to learn) and a mixed reality robot tutor to increase what we define as a student's Kinethetic Curiosity: the expression of student exploration and learning through movement."
+summary = "We are currently looking into combining the idea of Embodied Learning (using your whole body to learn) and a mixed reality robot tutor to increase what we define as a student's Kinethetic Curiosity: the expression of student exploration and learning through movement."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
