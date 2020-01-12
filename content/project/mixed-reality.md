@@ -2,14 +2,14 @@
 +++
 # Project title.
 title = """
-Modeling Affective Mixed Reality for Expressive Socially Assitive Robotics in Education
+Kinesthetic Curiosity: Embodied Learning Through a Mixed Reality Socially Interactive Robot Tutor
 """
 
 # Date this page was created.
 date = 2019-03-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "Providing different control interface for telepresence robot for K-12 in-school education"
+summary = "We are currently looking into combining the idea of "Embodied Learning" (using your whole body to learn) and a mixed reality robot tutor to increase what we define as a student's Kinethetic Curiosity: the expression of student exploration and learning through movement."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

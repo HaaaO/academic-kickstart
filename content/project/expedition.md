@@ -9,7 +9,7 @@ Expedition in Computing: Socially Assistive Robotics
 date = 2019-03-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "Providing different control interface for telepresence robot for K-12 in-school education"
+summary = "This work primarily focuses on long-term adaptation and personalization of the SAR system to the individual needs of the different children, as well as understanding and modeling the social dynamics of child-robot and child-family interactions. "
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

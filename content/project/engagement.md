@@ -9,7 +9,7 @@ Modeling Engagement and Help-Seeking Behaviors in Children with ASD
 date = 2019-03-26T00:00:00
 
 # Project summary to display on homepage.
-summary = "Providing different control interface for telepresence robot for K-12 in-school education"
+summary = "The purpose of this research is to model engagement and help-seeking behaviors in children with Autism Spectrum Disorder (ASD) such that a robot tutor can offer preemptive support and feedback. "
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
